@@ -488,20 +488,20 @@ section.what_you.py-5 p {
     font-size: 16px;
 }
 .augue {
-    background:#3d8fbd;
+    background:#ececec;
 }
 .augue h4 {
     font-size: 2em;
     line-height: 1.5em;
     letter-spacing: 2px;
-    color: #fff;
+    color: #555;
     font-weight: 100;
     text-transform: capitalize;
     margin:0 0 20px 0;
 }
 section.augue p {
     font-size: 18px;
-    color: rgba(255, 255, 255, 0.53);
+    color: #666;
     text-align: justify;
 }
 .about-info-augue img{
